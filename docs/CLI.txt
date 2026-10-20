@@ -1,0 +1,14 @@
+usage: lstm_lab.py [-h] (--demo | --data DATA) [--output OUTPUT]
+                   [--epochs EPOCHS]
+
+A small NumPy LSTM with chronological evaluation and a synthetic trading
+example. New 2026 public reconstruction inspired by the documented 2023
+prototype. No original model weights, market data or historical performance
+are claimed.
+
+options:
+  -h, --help       show this help message and exit
+  --demo
+  --data DATA
+  --output OUTPUT
+  --epochs EPOCHS

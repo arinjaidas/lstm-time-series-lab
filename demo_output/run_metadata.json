@@ -1,0 +1,19 @@
+{
+  "synthetic": true,
+  "seed": 20261019,
+  "rows": 720,
+  "train_rows": 432,
+  "validation_rows": 144,
+  "test_rows": 144,
+  "train_end": "2021-08-26",
+  "test_start": "2022-03-17",
+  "hidden_units": 8,
+  "lookback": 12,
+  "epochs_run": 20,
+  "selected_epoch": 5,
+  "scaling": "Fit using training observations only.",
+  "selection": "Early stopping on validation MSE; test targets unused during fitting.",
+  "backtest": "Long/cash; signal uses past returns; 5 bps per unit turnover; no final liquidation, spread, cash interest or market impact.",
+  "scope": "New public reconstruction; not the original 2023 local model.",
+  "interpretation": "Synthetic prediction and trading workflow, not evidence of market alpha or historical investment performance."
+}

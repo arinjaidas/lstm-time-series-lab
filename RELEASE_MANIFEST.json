@@ -1,0 +1,157 @@
+{
+  "publication_date": "2026-10-20",
+  "repository": "https://github.com/arinjaidas/lstm-time-series-lab",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 54,
+      "sha256": "7ae984b50ced7a800f4d97bc3f53471819f84860bbfc71a8658f1162a9f3fc95"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "bytes": 764,
+      "sha256": "512a554dbc8f153db2b5b5420b9769f1396dc872758e634885e78102c14cf754"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 161,
+      "sha256": "226529a2f80dc277d24a19fc76db3779708389691b815cacf6c6dc27228fdcde"
+    },
+    {
+      "path": ".python-version",
+      "bytes": 5,
+      "sha256": "7b55f8e67b5623c4bef3fa691288da9437d79d3aba156de48d481db32ac7d16d"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 333,
+      "sha256": "eb6d7d725e7828c119af1c26b98401fbc16888225500649d23aa55ccbe70e38a"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 372,
+      "sha256": "67d96ac6d5c76b4bd47ad3d015816f82353e43cd27d18b105685511569ad7958"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 607,
+      "sha256": "5bded38c45157b324f6c63e8ca9ed017d3f3068168eeffdc50b95cca1db2106a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4021,
+      "sha256": "99a0f453015ad4b3d9f5afe64320019b2f6d77a946e273ab40d91f39635b6f07"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "bytes": 1338,
+      "sha256": "8814056f0dfd95599081fbb1dcf1b91b6b32fcd34925481df378e450bfbeda1e"
+    },
+    {
+      "path": "assets/header.svg",
+      "bytes": 749,
+      "sha256": "e4a67511df4503b8f6ee9a985145ce21640013f418f073c0c99ad0ebda9ea60c"
+    },
+    {
+      "path": "demo_output/lstm_evaluation.svg",
+      "bytes": 75758,
+      "sha256": "b55c54b5a92799d757d9d3789f713ebafbb0f6d42e5ef8447672690d02debc4f"
+    },
+    {
+      "path": "demo_output/model_state.json",
+      "bytes": 9911,
+      "sha256": "244697340da9c9cec2f2522be29e3bbdf12cd14355059942a861cd338b35df54"
+    },
+    {
+      "path": "demo_output/run_metadata.json",
+      "bytes": 758,
+      "sha256": "61cf8208b8c9a173a747243908af4cb92d2f59bea81515218c0ea64c76ddcfec"
+    },
+    {
+      "path": "demo_output/synthetic_returns.csv",
+      "bytes": 23479,
+      "sha256": "4bf67d2318a3bd341eaf814315d4f5ee3bf3ab12b591d433ded56d37b53a9b5b"
+    },
+    {
+      "path": "demo_output/synthetic_strategy.csv",
+      "bytes": 16879,
+      "sha256": "15dbec3f9c79428b0d05ae584fdc006c32776f0b874d07ca31cc31e12044519a"
+    },
+    {
+      "path": "demo_output/test_forecasts.csv",
+      "bytes": 11710,
+      "sha256": "b2d1320a5f5eea1d1378e0535e18c09742fa0ebd203394fd53dbd68b1059345d"
+    },
+    {
+      "path": "demo_output/test_metrics.csv",
+      "bytes": 183,
+      "sha256": "6333c7a2efe7b5ded8f98e8e3cfe58145729d12e80df0616bafdb7fcbb864515"
+    },
+    {
+      "path": "demo_output/training_history.csv",
+      "bytes": 841,
+      "sha256": "7d706f634bfdc629abca74cb610af06756c2e93fea2d50c02d7807dda33117b3"
+    },
+    {
+      "path": "docs/CLI.txt",
+      "bytes": 457,
+      "sha256": "6cdd3de2c78c20e5fef89503603afc77ce1029cee493e2a36f22b9418d6aab67"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 774,
+      "sha256": "fb7ece595bc37013b1627d139c06b49e9a4640140d9d87d5382120e469f4b727"
+    },
+    {
+      "path": "docs/METHODS.md",
+      "bytes": 1915,
+      "sha256": "23817efc9d39fb39e1cedf7f9c890c9825b1946c8f2e1709edecf69f4d3840a7"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "bytes": 1119,
+      "sha256": "c475a88d2211c1267077db56950c403d0182c8adba3857291b88d088c1ff45a1"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "bytes": 366,
+      "sha256": "42f04b798c16ecde9bf9ef511bca59965ca832b032f4363c243ca3593dfc5620"
+    },
+    {
+      "path": "docs/RESULTS.md",
+      "bytes": 868,
+      "sha256": "c5a62539a358e37c63c1e17c2c108c6676f2c09f14dc27d6f18a8f9cdfb4c66e"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "bytes": 434,
+      "sha256": "c1147888d21c9c7a0a74420e6800e8e486b800c8a22ba0169c77948f1894435a"
+    },
+    {
+      "path": "docs/environment.json",
+      "bytes": 278,
+      "sha256": "c12143b6512ab77c7898db33d7d05dda805d20f6a8a41feb33906f0dd55ffae2"
+    },
+    {
+      "path": "lstm_lab.py",
+      "bytes": 12000,
+      "sha256": "7d3fe9267f7fd6be4404c755657760242820033f2ddea79a216105faa19570ec"
+    },
+    {
+      "path": "notebooks/01_results_walkthrough.ipynb",
+      "bytes": 3212,
+      "sha256": "f83ad8b197924bca5adc83e0e75c165dde2a90f2ab3e85a677b7ba789edb41f9"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 40,
+      "sha256": "982c24839a17e4ed89742eb74690aca75fbf40aeb1247d88bd456aa37e2f1be2"
+    },
+    {
+      "path": "test_lstm_lab.py",
+      "bytes": 2523,
+      "sha256": "fc8131c64f24a4c6c6df716276df2bbe20dcd8c66793e0582a26f6ee6fa761e2"
+    }
+  ],
+  "excludes": "This manifest excludes itself to avoid a recursive hash."
+}
